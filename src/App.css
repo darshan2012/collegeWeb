@@ -1,0 +1,17 @@
+/* .navSpace{
+    margin-left: 30px;
+}
+*{
+    margin: 0;
+    padding: 0;
+} */
+body {
+    -ms-overflow-style: none; /* for Internet Explorer, Edge */
+    scrollbar-width: none; /* for Firefox */
+    overflow-y: scroll; 
+    overflow-x: hidden; 
+  }
+
+  
+  
+  

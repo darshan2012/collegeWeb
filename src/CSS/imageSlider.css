@@ -1,0 +1,14 @@
+.my-modal{
+    width: 70vw;   
+    height: 700px; 
+    max-width: none;
+    padding: 0;
+    margin: 0;
+}
+.modalBody{
+    width: 50vw ;  
+}
+.modalHeader{
+    width: 50vw ;  
+
+}
